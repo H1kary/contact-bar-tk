@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Мохито б/а",
+    "ingredients": [
+      {"name": "лайм", "amount": 60},
+      {"name": "мята", "amount": 10},
+      {"name": "сах сир", "amount": 20},
+      {"name": "спрайт", "amount": 150},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Пина Колада б/а",
+    "ingredients": [
+      {"name": "ананас сок", "amount": 100},
+      {"name": "кокос сир", "amount": 30},
+      {"name": "сливки", "amount": 30},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "блендер",
+    "glassware": "харрикейн",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Клубничный Лимонад",
+    "ingredients": [
+      {"name": "клубника", "amount": 3},
+      {"name": "лимон", "amount": 30},
+      {"name": "сах сир", "amount": 20},
+      {"name": "содовая", "amount": 150},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Малиновый Лимонад",
+    "ingredients": [
+      {"name": "малина", "amount": 5},
+      {"name": "лимон", "amount": 30},
+      {"name": "сах сир", "amount": 20},
+      {"name": "содовая", "amount": 150},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Огуречный Лимонад",
+    "ingredients": [
+      {"name": "огурец", "amount": "3 слайса"},
+      {"name": "лайм", "amount": 30},
+      {"name": "сах сир", "amount": 20},
+      {"name": "содовая", "amount": 150},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Имбирный Лимонад",
+    "ingredients": [
+      {"name": "имбирь", "amount": "2 слайса"},
+      {"name": "лимон", "amount": 30},
+      {"name": "мед", "amount": 20},
+      {"name": "содовая", "amount": 150},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Фруктовый Пунш",
+    "ingredients": [
+      {"name": "апельсин сок", "amount": 50},
+      {"name": "ананас сок", "amount": 50},
+      {"name": "гренадин", "amount": 20},
+      {"name": "лимон", "amount": 20},
+      {"name": "содовая", "amount": 100},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "харрикейн",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Ягодный Смузи",
+    "ingredients": [
+      {"name": "клубника", "amount": 3},
+      {"name": "малина", "amount": 5},
+      {"name": "черника", "amount": "горсть"},
+      {"name": "банан", "amount": "половина"},
+      {"name": "йогурт", "amount": 100},
+      {"name": "мед", "amount": 10},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "блендер",
+    "glassware": "харрикейн",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Тропический Смузи",
+    "ingredients": [
+      {"name": "манго", "amount": "половина"},
+      {"name": "ананас", "amount": "2 кусочка"},
+      {"name": "банан", "amount": "половина"},
+      {"name": "кокос молоко", "amount": 50},
+      {"name": "апельсин сок", "amount": 50},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "блендер",
+    "glassware": "харрикейн",
+    "type": "безалкогольные"
+  },
+  {
+    "name": "Мятный Чай",
+    "ingredients": [
+      {"name": "зеленый чай", "amount": 150},
+      {"name": "мята", "amount": 5},
+      {"name": "лимон", "amount": 10},
+      {"name": "мед", "amount": 15}
+    ],
+    "preparation": "билд",
+    "glassware": "айриш",
+    "type": "безалкогольные"
+  }
+] 

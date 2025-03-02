@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Е-он Оригинальный",
+    "ingredients": [
+      {"name": "е-он ориг", "amount": 150},
+      {"name": "лайм", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Яблоко",
+    "ingredients": [
+      {"name": "е-он яблоко", "amount": 150},
+      {"name": "яблоко", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Вишня",
+    "ingredients": [
+      {"name": "е-он вишня", "amount": 150},
+      {"name": "вишня", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Тропик",
+    "ingredients": [
+      {"name": "е-он тропик", "amount": 150},
+      {"name": "ананас", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Мохито",
+    "ingredients": [
+      {"name": "е-он ориг", "amount": 150},
+      {"name": "лайм", "amount": "2 дольки"},
+      {"name": "мята", "amount": 5},
+      {"name": "сах сир", "amount": 15},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Ягодный",
+    "ingredients": [
+      {"name": "е-он ориг", "amount": 100},
+      {"name": "клубника", "amount": 3},
+      {"name": "малина", "amount": 5},
+      {"name": "сах сир", "amount": 15},
+      {"name": "лимон", "amount": 10},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Цитрус",
+    "ingredients": [
+      {"name": "е-он ориг", "amount": 100},
+      {"name": "апельсин", "amount": "2 дольки"},
+      {"name": "лимон", "amount": "долька"},
+      {"name": "лайм", "amount": "долька"},
+      {"name": "сах сир", "amount": 15},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  },
+  {
+    "name": "Е-он Имбирный",
+    "ingredients": [
+      {"name": "е-он ориг", "amount": 150},
+      {"name": "имбирь", "amount": "3 слайса"},
+      {"name": "лайм", "amount": 10},
+      {"name": "мед", "amount": 15},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "e-on"
+  }
+] 

@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Мохито",
+    "ingredients": [
+      {"name": "ром", "amount": 50},
+      {"name": "лайм", "amount": 60},
+      {"name": "мята", "amount": 10},
+      {"name": "сах сир", "amount": 20},
+      {"name": "содовая", "amount": 100},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Лонг Айленд",
+    "ingredients": [
+      {"name": "водка", "amount": 15},
+      {"name": "джин", "amount": 15},
+      {"name": "ром", "amount": 15},
+      {"name": "текила", "amount": 15},
+      {"name": "трипл сек", "amount": 15},
+      {"name": "лимонка", "amount": 30},
+      {"name": "сах сир", "amount": 20},
+      {"name": "кола", "amount": 100},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Пина Колада",
+    "ingredients": [
+      {"name": "ром", "amount": 50},
+      {"name": "кокос сир", "amount": 30},
+      {"name": "ананас сок", "amount": 100},
+      {"name": "сливки", "amount": 30},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "блендер",
+    "glassware": "харрикейн",
+    "type": "классика"
+  },
+  {
+    "name": "Космополитен",
+    "ingredients": [
+      {"name": "водка", "amount": 40},
+      {"name": "трипл сек", "amount": 20},
+      {"name": "лайм", "amount": 15},
+      {"name": "клюква сок", "amount": 30},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "классика"
+  },
+  {
+    "name": "Маргарита",
+    "ingredients": [
+      {"name": "текила", "amount": 50},
+      {"name": "трипл сек", "amount": 20},
+      {"name": "лайм", "amount": 30},
+      {"name": "сах сир", "amount": 10},
+      {"name": "соль", "amount": "бортик"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "классика"
+  },
+  {
+    "name": "Дайкири",
+    "ingredients": [
+      {"name": "ром", "amount": 50},
+      {"name": "лайм", "amount": 20},
+      {"name": "сах сир", "amount": 15},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "классика"
+  },
+  {
+    "name": "Май Тай",
+    "ingredients": [
+      {"name": "ром", "amount": 40},
+      {"name": "трипл сек", "amount": 15},
+      {"name": "миндаль сир", "amount": 15},
+      {"name": "лайм", "amount": 15},
+      {"name": "ананас сок", "amount": 50},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "харрикейн",
+    "type": "классика"
+  },
+  {
+    "name": "Секс на пляже",
+    "ingredients": [
+      {"name": "водка", "amount": 40},
+      {"name": "персик ликер", "amount": 20},
+      {"name": "апельсин сок", "amount": 40},
+      {"name": "клюква сок", "amount": 40},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Текила Санрайз",
+    "ingredients": [
+      {"name": "текила", "amount": 50},
+      {"name": "апельсин сок", "amount": 100},
+      {"name": "гренадин", "amount": 20},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Белый Русский",
+    "ingredients": [
+      {"name": "водка", "amount": 50},
+      {"name": "кофе ликер", "amount": 20},
+      {"name": "сливки", "amount": 30},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "рокс",
+    "type": "классика"
+  },
+  {
+    "name": "Черный Русский",
+    "ingredients": [
+      {"name": "водка", "amount": 50},
+      {"name": "кофе ликер", "amount": 20},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "рокс",
+    "type": "классика"
+  },
+  {
+    "name": "Кровавая Мэри",
+    "ingredients": [
+      {"name": "водка", "amount": 50},
+      {"name": "томат сок", "amount": 100},
+      {"name": "лимон", "amount": 10},
+      {"name": "соль", "amount": "щепотка"},
+      {"name": "перец", "amount": "щепотка"},
+      {"name": "табаско", "amount": "2к"},
+      {"name": "ворчестер", "amount": "2к"},
+      {"name": "сельдерей", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "роллинг",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Негрони",
+    "ingredients": [
+      {"name": "джин", "amount": 30},
+      {"name": "кампари", "amount": 30},
+      {"name": "красный вермут", "amount": 30},
+      {"name": "апельсин", "amount": "цедра"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "стир",
+    "glassware": "рокс",
+    "type": "классика"
+  },
+  {
+    "name": "Манхэттен",
+    "ingredients": [
+      {"name": "бурбон", "amount": 50},
+      {"name": "красный вермут", "amount": 20},
+      {"name": "ангостура", "amount": "2к"},
+      {"name": "вишня", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "стир",
+    "glassware": "мартинка",
+    "type": "классика"
+  },
+  {
+    "name": "Олд Фэшн",
+    "ingredients": [
+      {"name": "бурбон", "amount": 60},
+      {"name": "сах сир", "amount": 10},
+      {"name": "ангостура", "amount": "2к"},
+      {"name": "апельсин", "amount": "цедра"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "рокс",
+    "type": "классика"
+  },
+  {
+    "name": "Виски Сауэр",
+    "ingredients": [
+      {"name": "бурбон", "amount": 50},
+      {"name": "лимон", "amount": 25},
+      {"name": "сах сир", "amount": 15},
+      {"name": "белок", "amount": "опц"},
+      {"name": "ангостура", "amount": "2к"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "рокс",
+    "type": "классика"
+  },
+  {
+    "name": "Мартини",
+    "ingredients": [
+      {"name": "джин", "amount": 60},
+      {"name": "сухой вермут", "amount": 10},
+      {"name": "оливка", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "стир",
+    "glassware": "мартинка",
+    "type": "классика"
+  },
+  {
+    "name": "Гимлет",
+    "ingredients": [
+      {"name": "джин", "amount": 50},
+      {"name": "лайм", "amount": 20},
+      {"name": "сах сир", "amount": 10},
+      {"name": "лайм", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "классика"
+  },
+  {
+    "name": "Том Коллинз",
+    "ingredients": [
+      {"name": "джин", "amount": 50},
+      {"name": "лимон", "amount": 25},
+      {"name": "сах сир", "amount": 15},
+      {"name": "содовая", "amount": 100},
+      {"name": "лимон", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Джин Тоник",
+    "ingredients": [
+      {"name": "джин", "amount": 50},
+      {"name": "тоник", "amount": 150},
+      {"name": "лайм", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Апероль Спритц",
+    "ingredients": [
+      {"name": "апероль", "amount": 60},
+      {"name": "просекко", "amount": 90},
+      {"name": "содовая", "amount": 30},
+      {"name": "апельсин", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "винный бокал",
+    "type": "классика"
+  },
+  {
+    "name": "Отвертка",
+    "ingredients": [
+      {"name": "водка", "amount": 50},
+      {"name": "апельсин сок", "amount": 150},
+      {"name": "апельсин", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Ром Кола",
+    "ingredients": [
+      {"name": "ром", "amount": 50},
+      {"name": "кола", "amount": 150},
+      {"name": "лайм", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Виски Кола",
+    "ingredients": [
+      {"name": "виски", "amount": 50},
+      {"name": "кола", "amount": 150},
+      {"name": "лимон", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  },
+  {
+    "name": "Голубая Лагуна",
+    "ingredients": [
+      {"name": "водка", "amount": 40},
+      {"name": "блю кюрасао", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "спрайт", "amount": 100},
+      {"name": "лимон", "amount": "долька"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "классика"
+  }
+] 

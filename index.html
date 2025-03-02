@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#2c3e50">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Контакт Бар - Технические карты напитков</title>
+    <link rel="stylesheet" href="styles-new.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Контакт Бар</h1>
+            <p>Технические карты напитков</p>
+        </header>
+
+        <main>
+            <div class="game-link-container">
+                <a href="game.html" class="game-link">
+                    <span class="game-icon"><i class="fas fa-gamepad"></i></span>
+                    <span class="game-text">Тренировка бармена</span>
+                </a>
+            </div>
+            
+            <div class="categories">
+                <h2>Категории напитков</h2>
+                <div class="category-buttons">
+                    <button class="category-btn" data-category="коктейль"><i class="fas fa-cocktail"></i> Коктейли</button>
+                    <button class="category-btn" data-category="шот"><i class="fas fa-glass-whiskey"></i> Шоты</button>
+                    <button class="category-btn" data-category="классика"><i class="fas fa-wine-glass-alt"></i> Классика</button>
+                    <button class="category-btn" data-category="безалкогольный"><i class="fas fa-coffee"></i> Безалкогольные</button>
+                    <button class="category-btn" data-category="спец предложение"><i class="fas fa-star"></i> Спец. предложения</button>
+                    <button class="category-btn" data-category="е-он"><i class="fas fa-bolt"></i> E-on</button>
+                    <button class="category-btn" data-category="графин"><i class="fas fa-wine-bottle"></i> Графины</button>
+                </div>
+            </div>
+
+            <div class="drinks-list-container">
+                <h2 id="selected-category">Выберите категорию</h2>
+                <div id="drinks-list" class="drinks-list"></div>
+            </div>
+        </main>
+
+        <div id="drink-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-btn">&times;</span>
+                <div id="drink-details">
+                    <!-- Детали напитка будут добавлены через JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

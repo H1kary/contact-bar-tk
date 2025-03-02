@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Графин науки",
+    "ingredients": [
+      {"name": "сироп мята", "amount": 20},
+      {"name": "сироп яблоко", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "джин", "amount": 60},
+      {"name": "абсент", "amount": 20},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "графин (лед франц)",
+    "type": "графин"
+  },
+  {
+    "name": "Графин хеллоуин",
+    "ingredients": [
+      {"name": "сироп маракуйя", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "сах сироп", "amount": 20},
+      {"name": "джин", "amount": 30},
+      {"name": "водка", "amount": 30},
+      {"name": "абсент", "amount": 20},
+      {"name": "сок вишня", "amount": 50},
+      {"name": "мармелад червяк", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "графин (лед франц)",
+    "type": "графин"
+  },
+  {
+    "name": "ПРОМО апероль спритц",
+    "ingredients": [
+      {"name": "вермут", "amount": "по 40"},
+      {"name": "игристое", "amount": "по 80"},
+      {"name": "вода газ", "amount": "по 20"},
+      {"name": "лед по 1-2 кубика в каждый", "amount": ""}
+    ],
+    "preparation": "билд",
+    "glassware": "пластик стаканы",
+    "type": "графин"
+  }
+] 

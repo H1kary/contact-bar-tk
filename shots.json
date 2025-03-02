@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Том и Джерри",
+    "ingredients": [
+      {"name": "ром", "amount": 30},
+      {"name": "коньяк 3*", "amount": 20},
+      {"name": "сливки", "amount": 30},
+      {"name": "сах сир", "amount": 20},
+      {"name": "яич белок", "amount": 20},
+      {"name": "аром миндаль", "amount": "1к"},
+      {"name": "посыпка", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "3 шота",
+    "type": "шот"
+  },
+  {
+    "name": "Рафаэлло",
+    "ingredients": [
+      {"name": "сливки", "amount": 20},
+      {"name": "водка", "amount": 40},
+      {"name": "ПФ кофейный", "amount": 40},
+      {"name": "кокос сир", "amount": 20},
+      {"name": "взб сливки", "amount": 20},
+      {"name": "корица", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "3 шота",
+    "type": "шот"
+  },
+  {
+    "name": "Технопач",
+    "ingredients": [
+      {"name": "ром", "amount": 20},
+      {"name": "водка", "amount": 30},
+      {"name": "сироп яблоко", "amount": 30},
+      {"name": "сироп блю кюр", "amount": 10},
+      {"name": "сливки", "amount": 20},
+      {"name": "абсент", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "4 шота",
+    "type": "шот"
+  },
+  {
+    "name": "Ягереон",
+    "ingredients": [
+      {"name": "джин", "amount": 20},
+      {"name": "тундра биттер", "amount": 20},
+      {"name": "лимонка", "amount": 10},
+      {"name": "сироп яблоко", "amount": 10},
+      {"name": "е-он ориг", "amount": 80},
+      {"name": "марм черв", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "4 шота",
+    "type": "шот"
+  },
+  {
+    "name": "Неонимся",
+    "ingredients": [
+      {"name": "водка", "amount": "по 15"},
+      {"name": "лимонка", "amount": "по 5"},
+      {"name": "е-он ориг", "amount": "по 20"},
+      {"name": "марм черв", "amount": "укр"},
+      {"name": "белок", "amount": 20}
+    ],
+    "preparation": "билд",
+    "glassware": "4 шота",
+    "type": "шот"
+  },
+  {
+    "name": "Дрим Тим",
+    "ingredients": [
+      {"name": "джин", "amount": 40},
+      {"name": "ликер дыня", "amount": 20},
+      {"name": "сироп манго", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "сироп матча", "amount": 5},
+      {"name": "ежевичка", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "4 шота",
+    "type": "шот"
+  },
+  {
+    "name": "Боярский",
+    "ingredients": [
+      {"name": "сир гренадин", "amount": 5},
+      {"name": "кизивисск", "amount": 5},
+      {"name": "водка", "amount": 30}
+    ],
+    "preparation": "словми",
+    "glassware": "1 шот",
+    "type": "шот"
+  },
+  {
+    "name": "Твою мать",
+    "ingredients": [
+      {"name": "самбука", "amount": 15},
+      {"name": "ликвива", "amount": 10},
+      {"name": "абсент", "amount": 15}
+    ],
+    "preparation": "словми",
+    "glassware": "1 шот",
+    "type": "шот"
+  },
+  {
+    "name": "Облака",
+    "ingredients": [
+      {"name": "самбука", "amount": 15},
+      {"name": "текила", "amount": 15},
+      {"name": "абсент", "amount": 2},
+      {"name": "блю кюр в центр", "amount": 4},
+      {"name": "слив лик в центр", "amount": 5}
+    ],
+    "preparation": "словми",
+    "glassware": "1 шот",
+    "type": "шот"
+  },
+  {
+    "name": "Б-52",
+    "ingredients": [
+      {"name": "кофейный ликер", "amount": 13},
+      {"name": "сливочный ликер", "amount": 13},
+      {"name": "трипл сек", "amount": 13}
+    ],
+    "preparation": "словми",
+    "glassware": "1 шот",
+    "type": "шот"
+  },
+  {
+    "name": "Хиросима",
+    "ingredients": [
+      {"name": "самбука", "amount": 10},
+      {"name": "сахар сироп", "amount": 5},
+      {"name": "сливочный ликер", "amount": 10},
+      {"name": "абсент", "amount": 10},
+      {"name": "гренадин в центр", "amount": 5}
+    ],
+    "preparation": "словми",
+    "glassware": "1 шот",
+    "type": "шот"
+  },
+  {
+    "name": "Фейерверк шоу",
+    "ingredients": [
+      {"name": "трипл сек", "amount": 20},
+      {"name": "абсент", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "спрайт", "amount": 20}
+    ],
+    "preparation": "билд",
+    "glassware": "рокс и 2 шота",
+    "type": "шот"
+  }
+] 

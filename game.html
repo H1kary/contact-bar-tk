@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#2c3e50">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Контакт Бар - Тренировка</title>
+    <link rel="stylesheet" href="game-styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Контакт Бар</h1>
+            <p>Тренировка бармена</p>
+        </header>
+
+        <main>
+            <div id="setup-screen" class="setup-screen">
+                <h2>Выберите категории для тренировки</h2>
+                <div class="category-checkboxes">
+                    <label class="category-label">
+                        <input type="checkbox" data-category="коктейль" checked>
+                        <span>Коктейли</span>
+                    </label>
+                    <label class="category-label">
+                        <input type="checkbox" data-category="шот">
+                        <span>Шоты</span>
+                    </label>
+                    <label class="category-label">
+                        <input type="checkbox" data-category="классика">
+                        <span>Классика</span>
+                    </label>
+                    <label class="category-label">
+                        <input type="checkbox" data-category="безалкогольный">
+                        <span>Безалкогольные</span>
+                    </label>
+                    <label class="category-label">
+                        <input type="checkbox" data-category="спец предложение">
+                        <span>Спец. предложения</span>
+                    </label>
+                    <label class="category-label">
+                        <input type="checkbox" data-category="е-он">
+                        <span>E-on</span>
+                    </label>
+                    <label class="category-label">
+                        <input type="checkbox" data-category="графин">
+                        <span>Графины</span>
+                    </label>
+                </div>
+                <button id="start-game" class="start-button">Начать тренировку</button>
+                <a href="index.html" class="back-link">Вернуться к меню</a>
+            </div>
+
+            <div id="game-screen" class="game-screen hidden">
+                <div class="game-stats">
+                    <div class="progress">
+                        <span id="current-progress">0</span>/<span id="total-progress">0</span>
+                    </div>
+                    <div class="score">
+                        <span>Знаю: <span id="correct-count">0</span></span>
+                        <span>Не знаю: <span id="incorrect-count">0</span></span>
+                    </div>
+                </div>
+
+                <div id="card-container" class="card-container">
+                    <div id="drink-card" class="drink-card">
+                        <h2 id="drink-name">Название напитка</h2>
+                        <div class="swipe-hint">
+                            <div class="arrow up">↑ Знаю</div>
+                            <div class="tap">Нажмите для деталей</div>
+                            <div class="arrow down">↓ Не знаю</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="know-button" class="know-button">Знаю</button>
+                    <button id="details-button" class="details-button">Детали</button>
+                    <button id="dont-know-button" class="dont-know-button">Не знаю</button>
+                </div>
+
+                <button id="end-game" class="end-button">Завершить тренировку</button>
+            </div>
+
+            <div id="results-screen" class="results-screen hidden">
+                <h2>Результаты тренировки</h2>
+                <div class="results-stats">
+                    <div class="result-item">
+                        <span class="result-label">Всего напитков:</span>
+                        <span id="total-drinks" class="result-value">0</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Знаю наизусть:</span>
+                        <span id="known-drinks" class="result-value">0</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Нужно повторить:</span>
+                        <span id="unknown-drinks" class="result-value">0</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Процент знания:</span>
+                        <span id="knowledge-percent" class="result-value">0%</span>
+                    </div>
+                </div>
+
+                <div class="unknown-list-container">
+                    <h3>Напитки для повторения:</h3>
+                    <ul id="unknown-list" class="unknown-list"></ul>
+                </div>
+
+                <div class="result-buttons">
+                    <button id="restart-game" class="restart-button">Новая тренировка</button>
+                    <a href="index.html" class="menu-button">Вернуться к меню</a>
+                </div>
+            </div>
+        </main>
+
+        <div id="drink-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-btn">&times;</span>
+                <div id="drink-details">
+                    <!-- Детали напитка будут добавлены через JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html> 

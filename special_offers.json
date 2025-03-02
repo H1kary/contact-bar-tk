@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Мятный Джулеп",
+    "ingredients": [
+      {"name": "бурбон", "amount": 60},
+      {"name": "мята", "amount": 10},
+      {"name": "сах сир", "amount": 15},
+      {"name": "ангостура", "amount": "2к"},
+      {"name": "мята", "amount": "укр"},
+      {"name": "лед дробленый", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "джулеп",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Эспрессо Мартини",
+    "ingredients": [
+      {"name": "водка", "amount": 40},
+      {"name": "кофе ликер", "amount": 20},
+      {"name": "эспрессо", "amount": 30},
+      {"name": "сах сир", "amount": 10},
+      {"name": "кофейные зерна", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Малиновый Физз",
+    "ingredients": [
+      {"name": "джин", "amount": 50},
+      {"name": "малина", "amount": 6},
+      {"name": "лимон", "amount": 25},
+      {"name": "сах сир", "amount": 15},
+      {"name": "белок", "amount": 20},
+      {"name": "содовая", "amount": 50},
+      {"name": "малина", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "хайбол",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Базиликовый Смэш",
+    "ingredients": [
+      {"name": "джин", "amount": 50},
+      {"name": "базилик", "amount": 5},
+      {"name": "лимон", "amount": 25},
+      {"name": "сах сир", "amount": 15},
+      {"name": "огурец", "amount": "2 слайса"},
+      {"name": "содовая", "amount": 100},
+      {"name": "базилик", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Клубничный Дайкири",
+    "ingredients": [
+      {"name": "ром", "amount": 50},
+      {"name": "клубника", "amount": 4},
+      {"name": "лайм", "amount": 25},
+      {"name": "сах сир", "amount": 15},
+      {"name": "клубника", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Кокосовый Мартини",
+    "ingredients": [
+      {"name": "водка", "amount": 40},
+      {"name": "кокос ликер", "amount": 20},
+      {"name": "ананас сок", "amount": 30},
+      {"name": "сливки", "amount": 20},
+      {"name": "кокос стружка", "amount": "бортик"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "мартинка",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Имбирный Мул",
+    "ingredients": [
+      {"name": "водка", "amount": 50},
+      {"name": "имбирь", "amount": "3 слайса"},
+      {"name": "лайм", "amount": 20},
+      {"name": "мед", "amount": 15},
+      {"name": "имбирный эль", "amount": 100},
+      {"name": "мята", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "медная кружка",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Персиковый Беллини",
+    "ingredients": [
+      {"name": "персик пюре", "amount": 30},
+      {"name": "просекко", "amount": 120},
+      {"name": "персик", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "флюте",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Огуречный Джин-Тоник",
+    "ingredients": [
+      {"name": "джин", "amount": 50},
+      {"name": "огурец", "amount": "3 слайса"},
+      {"name": "лайм", "amount": 10},
+      {"name": "тоник", "amount": 150},
+      {"name": "огурец", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "билд",
+    "glassware": "бокал для вина",
+    "type": "спец. предложения"
+  },
+  {
+    "name": "Грушевый Физз",
+    "ingredients": [
+      {"name": "водка", "amount": 40},
+      {"name": "груша пюре", "amount": 30},
+      {"name": "лимон", "amount": 20},
+      {"name": "сах сир", "amount": 15},
+      {"name": "белок", "amount": 20},
+      {"name": "содовая", "amount": 50},
+      {"name": "груша", "amount": "укр"},
+      {"name": "лед", "amount": "полный"}
+    ],
+    "preparation": "шейк",
+    "glassware": "хайбол",
+    "type": "спец. предложения"
+  }
+] 

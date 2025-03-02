@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Шрек",
+    "ingredients": [
+      {"name": "лимонка", "amount": 10},
+      {"name": "сироп фейхуа", "amount": 20},
+      {"name": "виски", "amount": 40},
+      {"name": "тундра биттер", "amount": 10},
+      {"name": "вода газ", "amount": 80},
+      {"name": "яблоко", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "хайбол",
+    "type": "коктейль"
+  },
+  {
+    "name": "Цветочки",
+    "ingredients": [
+      {"name": "шейк вино", "amount": 20},
+      {"name": "водка", "amount": 20},
+      {"name": "трипл сек", "amount": 20},
+      {"name": "сир блю кюр", "amount": 10},
+      {"name": "сир роза", "amount": 10},
+      {"name": "корд фиалка", "amount": 30},
+      {"name": "сок яблоко", "amount": 40},
+      {"name": "гипсофилы", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "вино",
+    "type": "коктейль"
+  },
+  {
+    "name": "Ежевичный Айс Ти",
+    "ingredients": [
+      {"name": "шейк вино", "amount": 40},
+      {"name": "сир кленовый", "amount": 5},
+      {"name": "сир ежевика", "amount": 20},
+      {"name": "лимонка", "amount": 10},
+      {"name": "сок апельсин", "amount": 60},
+      {"name": "бамбук", "amount": "укр"},
+      {"name": "апельсин", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "вино",
+    "type": "коктейль"
+  },
+  {
+    "name": "Голубая акула",
+    "ingredients": [
+      {"name": "шейк слинг", "amount": 40},
+      {"name": "сироп смородина", "amount": 5},
+      {"name": "сир блю кюр", "amount": 20},
+      {"name": "водка", "amount": 30},
+      {"name": "трипл сек", "amount": 10},
+      {"name": "сливки", "amount": 30},
+      {"name": "сок ананас", "amount": "укр"},
+      {"name": "мармелад акула", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "вино",
+    "type": "коктейль"
+  },
+  {
+    "name": "Джин харли квин",
+    "ingredients": [
+      {"name": "сироп клубника", "amount": 10},
+      {"name": "джин", "amount": 40},
+      {"name": "тоник", "amount": 80},
+      {"name": "грейпфрукт", "amount": "укр"},
+      {"name": "апельсин", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "вино",
+    "type": "коктейль"
+  },
+  {
+    "name": "Зомби",
+    "ingredients": [
+      {"name": "шейк касабланка", "amount": 5},
+      {"name": "сироп гренадин", "amount": 5},
+      {"name": "сок персик", "amount": 20},
+      {"name": "ром", "amount": 20},
+      {"name": "водка", "amount": 30},
+      {"name": "сок апел-манго", "amount": 100},
+      {"name": "водка", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "касабланка",
+    "type": "коктейль"
+  },
+  {
+    "name": "Клубника 404",
+    "ingredients": [
+      {"name": "шейк рокс", "amount": 40},
+      {"name": "ром", "amount": 40},
+      {"name": "сир карамель", "amount": 15},
+      {"name": "сир клубника", "amount": 15},
+      {"name": "лимонка", "amount": 15},
+      {"name": "пепси", "amount": 40},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "рокс",
+    "type": "коктейль"
+  },
+  {
+    "name": "Шугар дэдди",
+    "ingredients": [
+      {"name": "шейк вино", "amount": 10},
+      {"name": "вила бланка", "amount": 10},
+      {"name": "сироп маракуйя", "amount": 20},
+      {"name": "настойка скитлс", "amount": 40},
+      {"name": "сок яблоко", "amount": 50},
+      {"name": "мята", "amount": "укр"},
+      {"name": "маршмеллоу", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "вино",
+    "type": "коктейль"
+  },
+  {
+    "name": "Мухаббат",
+    "ingredients": [
+      {"name": "шейк хайбол", "amount": 30},
+      {"name": "водка", "amount": 30},
+      {"name": "ликер дыня", "amount": 20},
+      {"name": "сир маракуйя", "amount": 10},
+      {"name": "корд йогурт-бана", "amount": 30},
+      {"name": "напиток алоэ", "amount": 30},
+      {"name": "бамбук", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "хайбол",
+    "type": "коктейль"
+  },
+  {
+    "name": "Московская красавица",
+    "ingredients": [
+      {"name": "билд касабланка", "amount": 10},
+      {"name": "сироп гренадин", "amount": 10},
+      {"name": "сироп клубника", "amount": 10},
+      {"name": "лимонка", "amount": 10},
+      {"name": "водка", "amount": 40},
+      {"name": "морс", "amount": 50},
+      {"name": "спрайт", "amount": 100},
+      {"name": "лимон", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "касабланка",
+    "type": "коктейль"
+  },
+  {
+    "name": "Зеленая фея",
+    "ingredients": [
+      {"name": "билд касабланка", "amount": 10},
+      {"name": "водка", "amount": 10},
+      {"name": "трипл сек", "amount": 10},
+      {"name": "абсент", "amount": 10},
+      {"name": "джин", "amount": 10},
+      {"name": "ром", "amount": 10},
+      {"name": "сироп блю кюр", "amount": 10},
+      {"name": "лимонка", "amount": "укр"},
+      {"name": "сок апельсин", "amount": 150},
+      {"name": "лимон", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "касабланка",
+    "type": "коктейль"
+  },
+  {
+    "name": "Клубнична лада",
+    "ingredients": [
+      {"name": "шейк рокс", "amount": 40},
+      {"name": "текила", "amount": 40},
+      {"name": "сироп грейпфр", "amount": 20},
+      {"name": "сироп клубника", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "мармелад черв", "amount": "укр"},
+      {"name": "клубника", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "рокс",
+    "type": "коктейль"
+  },
+  {
+    "name": "Вишневый дайкири",
+    "ingredients": [
+      {"name": "шейк рокс", "amount": 20},
+      {"name": "сахар сироп", "amount": 20},
+      {"name": "сок вишня", "amount": 20},
+      {"name": "ром", "amount": 40},
+      {"name": "лайм", "amount": "укр"},
+      {"name": "грейпф", "amount": "укр"},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "рокс",
+    "type": "коктейль"
+  },
+  {
+    "name": "Рубиновый эль",
+    "ingredients": [
+      {"name": "билд хайбол", "amount": 40},
+      {"name": "водка", "amount": 40},
+      {"name": "сир клубника", "amount": 10},
+      {"name": "сир смородина", "amount": 10},
+      {"name": "лимонка", "amount": 10},
+      {"name": "тоник", "amount": 50}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "коктейль"
+  },
+  {
+    "name": "Сказачное бали",
+    "ingredients": [
+      {"name": "шейк вино", "amount": 10},
+      {"name": "сироп клубника", "amount": 10},
+      {"name": "водка", "amount": 20},
+      {"name": "ликер маракуйя", "amount": 20},
+      {"name": "вила бланка", "amount": 20},
+      {"name": "сок персик", "amount": 80},
+      {"name": "бамбук", "amount": "укр"},
+      {"name": "грейпфрут", "amount": "укр"},
+      {"name": "маршмеллоу", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "вино",
+    "type": "коктейль"
+  },
+  {
+    "name": "Барби XXL",
+    "ingredients": [
+      {"name": "шейк касабланка", "amount": 20},
+      {"name": "сироп грейпфр", "amount": 20},
+      {"name": "сироп малина", "amount": 5},
+      {"name": "сир лимон тарт", "amount": 10},
+      {"name": "водка", "amount": 30},
+      {"name": "лимонка", "amount": 20},
+      {"name": "сок ананас", "amount": 20},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "касабланка",
+    "type": "коктейль"
+  },
+  {
+    "name": "Манго мания",
+    "ingredients": [
+      {"name": "шейк касабланка", "amount": 10},
+      {"name": "ром", "amount": 10},
+      {"name": "сироп манго", "amount": 10},
+      {"name": "трипл сек", "amount": 20},
+      {"name": "водка", "amount": 20},
+      {"name": "текила", "amount": 30},
+      {"name": "сок персик", "amount": 100},
+      {"name": "сироп гренадин", "amount": 5},
+      {"name": "лимон", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "касабланка",
+    "type": "коктейль"
+  },
+  {
+    "name": "Фея винкс",
+    "ingredients": [
+      {"name": "билд хайбол", "amount": 10},
+      {"name": "абсент", "amount": 10},
+      {"name": "лимонка", "amount": 10},
+      {"name": "сироп ежевика", "amount": 20},
+      {"name": "джин", "amount": 30},
+      {"name": "вода газ", "amount": 80},
+      {"name": "бамбук", "amount": "укр"},
+      {"name": "клубника", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол",
+    "type": "коктейль"
+  },
+  {
+    "name": "18 мне уже",
+    "ingredients": [
+      {"name": "шейк рокс", "amount": 40},
+      {"name": "джин", "amount": 40},
+      {"name": "сироп карамель", "amount": 20},
+      {"name": "лимонка", "amount": 10},
+      {"name": "сок яблоко", "amount": 40},
+      {"name": "яблоко", "amount": "укр"},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "рокс",
+    "type": "коктейль"
+  },
+  {
+    "name": "За деньги да",
+    "ingredients": [
+      {"name": "шейк слинг", "amount": 20},
+      {"name": "абсент", "amount": 20},
+      {"name": "трипл сек", "amount": 20},
+      {"name": "напиток алоэ", "amount": 40},
+      {"name": "лимонка", "amount": 20},
+      {"name": "бамбук", "amount": "укр"},
+      {"name": "яблоко", "amount": "укр"}
+    ],
+    "preparation": "шейк",
+    "glassware": "слинг",
+    "type": "коктейль"
+  },
+  {
+    "name": "Красный диплом",
+    "ingredients": [
+      {"name": "билд хайбол+бутылка", "amount": 20},
+      {"name": "сироп гренадин", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "сок апельсин", "amount": 80},
+      {"name": "водка", "amount": 60},
+      {"name": "сироп блю кюр", "amount": 20},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "билд",
+    "glassware": "хайбол+бутылка",
+    "type": "коктейль"
+  },
+  {
+    "name": "Ванильный поцелуй",
+    "ingredients": [
+      {"name": "блендер рокс", "amount": 20},
+      {"name": "сок ананас", "amount": 20},
+      {"name": "сироп карамель", "amount": 20},
+      {"name": "сливки", "amount": 20},
+      {"name": "банан", "amount": "1/3"},
+      {"name": "ром", "amount": 40}
+    ],
+    "preparation": "блендер",
+    "glassware": "рокс",
+    "type": "коктейль"
+  },
+  {
+    "name": "Изи Катка",
+    "ingredients": [
+      {"name": "аллегра шейк", "amount": 30},
+      {"name": "ром", "amount": 30},
+      {"name": "трипл сек", "amount": 20},
+      {"name": "лимонка", "amount": 10},
+      {"name": "сах сироп", "amount": 10},
+      {"name": "кордиал КЭФ", "amount": 20},
+      {"name": "сок ананас", "amount": 40},
+      {"name": "мята", "amount": "укр"},
+      {"name": "гипсофилы", "amount": "укр"}
+    ],
+    "preparation": "аллегра",
+    "glassware": "шейк",
+    "type": "коктейль"
+  },
+  {
+    "name": "Пятимейкер",
+    "ingredients": [
+      {"name": "винник шейк", "amount": 30},
+      {"name": "джин", "amount": 30},
+      {"name": "ликер дыня", "amount": 20},
+      {"name": "лимонка", "amount": 20},
+      {"name": "сир маракуйя", "amount": 20},
+      {"name": "сир яблоко", "amount": 5},
+      {"name": "кордиал ММ", "amount": 20},
+      {"name": "мята", "amount": "укр"}
+    ],
+    "preparation": "винник",
+    "glassware": "шейк",
+    "type": "коктейль"
+  }
+] 
