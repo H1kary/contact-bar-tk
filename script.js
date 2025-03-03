@@ -67,13 +67,20 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Отображение напитков по категории
     function displayDrinksByCategory(category) {
-        const filteredDrinks = allDrinks.filter(drink => drink.type === category);
+        let searchType = category;
+        
+        // Преобразуем тип для поиска
+        if (category === 'е-он') searchType = 'e-on';
+        if (category === 'спец предложение') searchType = 'спец. предложения';
+        if (category === 'безалкогольный') searchType = 'безалкогольные';
+        
+        const filteredDrinks = allDrinks.filter(drink => drink.type.toLowerCase() === searchType.toLowerCase());
         
         selectedCategoryTitle.textContent = getCategoryDisplayName(category);
         
         if (filteredDrinks.length === 0) {
             drinksList.innerHTML = '<p class="no-drinks">Напитки не найдены</p>';
-            console.log('Не найдены напитки для категории:', category);
+            console.log('Не найдены напитки для категории:', category, 'поиск по типу:', searchType);
             return;
         }
         
